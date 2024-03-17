@@ -1,3 +1,7 @@
+## A simple front end interacting with the FUND ME contract
+
+My goal here was ot learn a little bit more about ethers, how I could interact with contracts using a modern front end and add some basic reactivity to it.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
